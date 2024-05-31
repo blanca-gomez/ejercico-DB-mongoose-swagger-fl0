@@ -4,7 +4,8 @@
   "description": "Para este ejercicio se pide documentar la API utilizando swagger y desplegar la misma en fl0. Debemos utilizar la API de tareas que creamos en la Review 2 de la semana pasada.",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon index.js"
+    "dev": "nodemon index.js",
+    "start" :"node index.js"
   },
   "author": "",
   "license": "ISC",
